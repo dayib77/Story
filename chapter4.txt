@@ -1,0 +1,1 @@
+Hello, this is a new chapter and the goal is test the difference between the branches :-)
